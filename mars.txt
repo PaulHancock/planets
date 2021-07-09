@@ -9,3 +9,9 @@ I hope one day to find some friends. It's been so lonely since my last friends l
 History:
 First colonised by Matthew Damon in the mid-2010s.
 
+<<<<<<< HEAD
+=======
+creating a conflict here?
+
+How hot is in here?
+>>>>>>> 077061f288df9ce975664ce256ef16541c6a0ab3
