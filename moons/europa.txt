@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my favorite moon
+=======
+Europa i my favorite moon
+>>>>>>> 4eafed644a106cbcbb13f40f5edcaa469f85b259
